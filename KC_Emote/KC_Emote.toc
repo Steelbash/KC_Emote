@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: KC_Emote
+## Author: Murashko
+
+KC_Emote.lua
